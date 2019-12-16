@@ -17,4 +17,4 @@ For those who don't know their way around a unix based terminal, do the followin
 The original Pokémon game that I made. All inputs require the return key to be pressed after input.
 
 ### Version 1.1
-Inputs no longer require the return key to be pressed after input.
+Inputs no longer require the return key to be pressed after input, except for when you switch out your entire party.
