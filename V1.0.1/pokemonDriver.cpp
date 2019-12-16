@@ -760,5 +760,6 @@ int main() {
     }
     displayTopPlayers();
     cout << endl << "Created by Jishnu Raychaudhuri" << endl;
+    cout << "Version: 1.0.1" << endl;
     return 0;
 }
