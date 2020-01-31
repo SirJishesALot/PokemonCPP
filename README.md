@@ -1,6 +1,6 @@
 # PokemonCPP
 A text based Pokémon game I made using C++ <br>
-Only works on Linux terminals at the moment cuz I used system commands. Yes I know, sue me.
+Only works on Linux terminals at the moment.
 
 ## How to run the game
 For people who already know their way around a unix based terminal, all you need to do is navigate to where the folder is installed on your computer. Go to the corresponding version folder and then enter `./pokemonGame` to run the game.
