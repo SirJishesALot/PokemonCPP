@@ -3,7 +3,7 @@ Jishnu		Won		120
 jiggthesecond	Lost		0
 SirJishesALot	Won		60
 Bartek		Won		50
-kill me		Won		100
+yes now		Won		100
 Jowy		Won		110
 bruh		Won		30
 bruh		Won		10
@@ -30,7 +30,6 @@ Jishnu		Won		50
 tester		Won		100
 fdd		Won		40
 Caw		Lost		10
-EatDatPussy445	Won		240
 Tim		Won		90
 Jishnu		Won		140
 lol		Lost		10
